@@ -61,7 +61,7 @@ img {
     height: auto;
 }
 
-/*----------------------------------HEADER*/
+/*----------------------HEADER----------------------*/
 .header {
     border-bottom: 1px solid #E7E9FC;
 }
@@ -163,7 +163,7 @@ img {
 .contacts:not(:last-child) {
     margin-right: 40px;
 }
-/* ----------------------------------HERO */
+/* ----------------------HERO---------------------- */
 .section-hero {
     background-color: var(--color-second-text);  
     padding-top: 188px;
@@ -196,7 +196,7 @@ img {
 }
 
 
-/* ------------------------BUTTON PRIMARY */
+/* -----------------------BUTTON PRIMARY---------------------- */
 .button-primary {
     background-color: var(--color-accent);
     color: var(--background-white-color);
@@ -220,7 +220,7 @@ img {
     background-color: var(--color-hover);
     color:var(--background-white-color)
 }
-/*----------------------------SECTION-WORK*/
+/*----------------------SECTION-WORK----------------------*/
 .section-team {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -258,7 +258,7 @@ width: calc((100% - 72px) / 4);
     margin-bottom: 8px;
     background-color: var(--color-second-white);
 }
-/* ------------------------------OUR-TEAM */
+/* ----------------------OUR-TEAM---------------------- */
 .items {
     display:flex;   
 }
@@ -360,7 +360,7 @@ width: calc((100% - 48px) / 3);
 .section-work {
     padding-bottom: 120px;
 }
-/* -----------------------------PORTFOLIO */
+/* ----------------------PORTFOLIO---------------------- */
 .section-portfolio {
     padding-top: 96px;
     padding-bottom: 120px;
@@ -394,7 +394,7 @@ width: calc((100% - 48px) / 3);
     border-top: none;
     padding: 32px 16px ; 
 }
-/* ------------------------------------------BUTTON */
+/* ----------------------BUTTON---------------------- */
 .button {
     background-color: var(--color-second-white);
     color: var(--color-accent);
@@ -429,7 +429,7 @@ width: calc((100% - 48px) / 3);
 .button-list .second-button:not(:last-child) {
     margin-right: 24px;
 }
-/* -----------------------------------------CUSTOMERS*/
+/*----------------------CUSTOMERS----------------------*/
 .section-customers {
     padding-top: 130px;
     padding-bottom: 120px;
@@ -468,7 +468,7 @@ width: calc((100% - 48px) / 3);
     border-color: var(--color-hover);
 }
 
-/*--------------------==----------------------FOOTER */
+/*----------------------FOOTER---------------------- */
 
 .footer {
     background-color: var(--color-second-text);
